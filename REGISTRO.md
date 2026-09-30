@@ -21,3 +21,4 @@ acrescentar uma linha aqui.
 | 28/09/2026 | @ong.oficina.da.vida | Não confirmado | **Não confirmado**: a conversa não foi encontrada a partir do Claude Code (provavelmente foi no Cowork, no computador DESKTOP-9CAFV4E) | Não encontrada | Nenhum arquivo neste repositório |
 | 30/09/2026 | @albernazterapias | Carrossel (6 imagens) | Não registrado na época | https://claude.ai/code/session_018QxtAXv9E9mBUXRXDQ4hVb | `2026-09-30-codependencia/` |
 | 30/09/2026 | @albernazterapias | Reels | Não registrado na época | https://claude.ai/code/session_018QxtAXv9E9mBUXRXDQ4hVb | `2026-09-30-reels-codependencia/` |
+| 30/09/2026 | @ong.oficina.da.vida | Stories (5 imagens): patrocínio pela Rouanet e pela LICC | **Aguardando aprovação da Ana.** Plano: agendar pelo Metricool depois que a ONG for conectada lá | https://claude.ai/code/session_01NLwa2NVuMMVhEXVRnEH2mB | `2026-09-30-stories-patrocinio-oficina/` |
