@@ -11,6 +11,7 @@ acrescentar uma linha aqui.
 | Site da Oficina da Vida | https://claude.ai/artifact/6spN3NwKofFUi596yPbysK |
 | Associação Oficina da Vida | https://claude.ai/artifact/NKofCQtW7dAysrafZAZpi6 |
 | Calendário Instagram Oficina da Vida | https://claude.ai/artifact/F8i7ybqQBKxmKg69aqDqXh |
+| **Central de Postagens (artes prontas + histórico)** | https://claude.ai/artifact/9Bj2Qa1nH3DSB97dgefFzP |
 | Posts Albernaz Terapias | https://claude.ai/artifact/SFgyuvqWBeA86grZGVZ9QV |
 | Metricool (agendamento) | Conectado só ao @albernazterapias (desde 28/09/2026) |
 
